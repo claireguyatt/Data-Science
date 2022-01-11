@@ -1,0 +1,5 @@
+#!/bin/bash
+
+File=$1
+
+cat $File | grep '^........,../../2020' > output.csv
