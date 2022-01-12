@@ -1,3 +1,0 @@
-I'm aware my bokeh server does not work unless I start it, despite using the tmux new -s nyc_dash. I tried to troubleshoot but was not able to get it to work. Beyond that, what I managed to get on my bokeh dashboard was a plot of the monthly average time for all of 2020. I've included a picture of the graph. I also got a drop down for different zips, and I pre-processed a .csv to include all the months, ZIPs, and average times per month. 
-I know I needed to use change_on and other related functions in my nyc_dash.py, and I left the code I tried with these functions in my src folder. 
-If I can get any partial marks for these that would be gr8!!!! I tried my best :/
